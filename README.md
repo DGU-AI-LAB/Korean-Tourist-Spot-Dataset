@@ -29,6 +29,13 @@ First, they divided into person-made tourist spots and nature scene tourist spot
   * Island
   * Lake
   * Mountain
-  
+
+## Load code
+Pure Python:
+ > [load_data.py](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_data.py)
+
+Jupyter notebook:
+ > [load_data.ipynb](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_data.ipynb)
+
 ## Copyrights
 Copyright 2019, AI lab., Dongguk Univ. All rights reserved
