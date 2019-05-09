@@ -37,5 +37,8 @@ Two types of files are provided
 
 > Jupyter notebook : [load_data.ipynb](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_data.ipynb)
 
+### Prerequisite
+> pip install numpy
+
 ## Copyrights
 Copyright 2019, AI lab., Dongguk Univ. All rights reserved
