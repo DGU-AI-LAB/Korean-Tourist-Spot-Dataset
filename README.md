@@ -1,5 +1,6 @@
 # Korean-Tourist-Spot-Dataset
-This repository contains the KTS(Korean Tourist Spot) datasets which can be used to heterogeneous data analysis or mining and code for load them. 
+This repository contains the KTS(Korean Tourist Spot) dataset and code for load them.
+You can check the documentation of the KTS dataset at  [here] (http://ai.dongguk.edu/heterogeneous-dataset/).
 The KTS Dataset is consists of data on 10 labels related to tourist spots in Korea collected from the Instagram.
 The dataset provides the following data:
 
